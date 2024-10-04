@@ -1,0 +1,3 @@
+displayName = Zodiac RPG Mod
+author = RuanFerGui
+version = 0.1
