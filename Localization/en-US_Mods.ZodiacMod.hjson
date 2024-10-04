@@ -2,12 +2,7 @@
 
 Items: {
 	TrainingSword: {
-		DisplayName: "Training Sword"
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
+		DisplayName: Training Sword
+		Tooltip: The best way to learn how to fight is to practice.
 	}
 }
